@@ -1,1 +1,1 @@
-# LAB2
+This repository includes Two different python file for the Machne Learning algorithms performed on Brest Cancer Diagnosis Dataset. The Python files include the Logistic Regression and Decision Tree Algorithm. Decision Tree is more suitable for this Dataset.
